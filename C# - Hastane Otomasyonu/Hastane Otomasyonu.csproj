@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7CD10449-B91A-45AF-9AFD-5092CA6831DE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Hastane_Otomasyonu</RootNamespace>
+    <AssemblyName>Hastane Otomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="asirandevu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="asirandevu.Designer.cs">
+      <DependentUpon>asirandevu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="covid19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="covid19.Designer.cs">
+      <DependentUpon>covid19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="covid19x.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="covid19x.Designer.cs">
+      <DependentUpon>covid19x.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doktorekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doktorekle.Designer.cs">
+      <DependentUpon>doktorekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doktorguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doktorguncelle.Designer.cs">
+      <DependentUpon>doktorguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hakkimizda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hakkimizda.Designer.cs">
+      <DependentUpon>hakkimizda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hastabilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hastabilgi.Designer.cs">
+      <DependentUpon>hastabilgi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hastasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hastasayfa.Designer.cs">
+      <DependentUpon>hastasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kayıtol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kayıtol.Designer.cs">
+      <DependentUpon>kayıtol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanicigiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanicigiris.Designer.cs">
+      <DependentUpon>kullanicigiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personelgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personelgiris.Designer.cs">
+      <DependentUpon>personelgiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personelsayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personelsayfa.Designer.cs">
+      <DependentUpon>personelsayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="poliklinik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="poliklinik.Designer.cs">
+      <DependentUpon>poliklinik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="randevual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="randevual.Designer.cs">
+      <DependentUpon>randevual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="randevubilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="randevubilgi.Designer.cs">
+      <DependentUpon>randevubilgi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="asirandevu.resx">
+      <DependentUpon>asirandevu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="covid19.resx">
+      <DependentUpon>covid19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="covid19x.resx">
+      <DependentUpon>covid19x.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doktorekle.resx">
+      <DependentUpon>doktorekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doktorguncelle.resx">
+      <DependentUpon>doktorguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hakkimizda.resx">
+      <DependentUpon>hakkimizda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hastabilgi.resx">
+      <DependentUpon>hastabilgi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hastasayfa.resx">
+      <DependentUpon>hastasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kayıtol.resx">
+      <DependentUpon>kayıtol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanicigiris.resx">
+      <DependentUpon>kullanicigiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personelgiris.resx">
+      <DependentUpon>personelgiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personelsayfa.resx">
+      <DependentUpon>personelsayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="poliklinik.resx">
+      <DependentUpon>poliklinik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="randevual.resx">
+      <DependentUpon>randevual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="randevubilgi.resx">
+      <DependentUpon>randevubilgi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkaplan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x3.png" />
+    <None Include="Resources\x21.png" />
+    <None Include="Resources\x11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gazix.png" />
+    <None Include="Resources\gazii2.png" />
+    <None Include="Resources\gazii.png" />
+    <None Include="Resources\gunc.png" />
+    <None Include="Resources\iptal.png" />
+    <None Include="Resources\guncelle2.png" />
+    <None Include="Resources\geridon2.png" />
+    <None Include="Resources\kaydet2.png" />
+    <None Include="Resources\kaydet.png" />
+    <None Include="Resources\p3.png" />
+    <None Include="Resources\p2.png" />
+    <None Include="Resources\p1.png" />
+    <None Include="Resources\pol.png" />
+    <None Include="Resources\covid19.png" />
+    <None Include="Resources\r1.png" />
+    <None Include="Resources\Webp.net-resizeimage.png" />
+    <None Include="Resources\Webp.net-resizeimage %281%29.png" />
+    <None Include="Resources\silv2.png" />
+    <None Include="Resources\eklev4.png" />
+    <None Include="Resources\v4.png" />
+    <None Include="Resources\v3.png" />
+    <None Include="Resources\v2.png" />
+    <None Include="Resources\eklev3.png" />
+    <None Include="Resources\eklev2.png" />
+    <None Include="Resources\ekle.png" />
+    <None Include="Resources\ara.png" />
+    <None Include="Resources\kayit1.png" />
+    <None Include="Resources\kayit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qqq.png" />
+    <None Include="Resources\geridon21.png" />
+    <None Include="Resources\kaydet21.png" />
+    <None Include="Resources\arax1.png" />
+    <None Include="Resources\arax.png" />
+    <None Include="Resources\bilgi2.png" />
+    <None Include="Resources\bilgi.png" />
+    <None Include="Resources\para.png" />
+    <None Include="Resources\raniptal2.png" />
+    <None Include="Resources\randevu2.png" />
+    <None Include="Resources\raniptal.png" />
+    <None Include="Resources\randevu.png" />
+    <None Include="Resources\xxx1.png" />
+    <None Include="Resources\Webp.net-resizeimage %281%291.png" />
+    <None Include="Resources\xxx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\www.png" />
+    <None Include="Resources\qqq1.png" />
+    <None Include="Resources\geridon22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geridon24.png" />
+    <None Include="Resources\trx1.png" />
+    <None Include="Resources\trx21.png" />
+    <None Include="Resources\trrr1.png" />
+    <None Include="Resources\a2.png" />
+    <None Include="Resources\a3.png" />
+    <None Include="Resources\a4.png" />
+    <None Include="Resources\a1.png" />
+    <None Include="Resources\trrr.png" />
+    <None Include="Resources\trx2.png" />
+    <None Include="Resources\trx.png" />
+    <None Include="Resources\geridon23.png" />
+    <None Include="Resources\astra.png" />
+    <None Include="Resources\sputnik.png" />
+    <None Include="Resources\sinovac.png" />
+    <None Include="Resources\bion.png" />
+    <None Include="Resources\newa.png" />
+    <None Include="Resources\Webp.net-resizeimage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yasak.png" />
+    <None Include="Resources\bilgi22.png" />
+    <None Include="Resources\bilgi21.png" />
+    <None Include="Resources\asi1.png" />
+    <None Include="Resources\asi.png" />
+    <None Include="Resources\aaaaaaa.png" />
+    <None Include="Resources\arax3.png" />
+    <None Include="Resources\arax2.png" />
+    <None Include="Resources\qqq2.png" />
+    <None Include="Resources\geridon25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uuuu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="database.mdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

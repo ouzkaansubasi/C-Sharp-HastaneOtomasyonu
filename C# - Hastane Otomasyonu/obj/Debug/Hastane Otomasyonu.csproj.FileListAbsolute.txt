@@ -1,0 +1,43 @@
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Form1.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.kullanicigiris.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.personelgiris.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\database.mdb
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.hastasayfa.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.personelsayfa.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.doktorekle.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.doktorguncelle.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\bin\Debug\database.mdb
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.doktorekle.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.doktorguncelle.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Form1.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.hastasayfa.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.kullanicigiris.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.personelgiris.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.personelsayfa.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.hakkimizda.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.poliklinik.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.kayıtol.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.randevual.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.hastabilgi.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.covid19.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.covid19x.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.asirandevu.resources
+C:\Users\oukaa\OneDrive\Masaüstü\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.randevubilgi.resources

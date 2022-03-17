@@ -1,1 +1,1 @@
-# C-Sharp-Hastane-Otomasyonu
+# C-Sharp-HastaneOtomasyonu
